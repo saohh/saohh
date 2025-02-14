@@ -29,7 +29,15 @@ Here are some of the technologies I am familiar with:
 - ![Git](https://img.shields.io/badge/Git-v2.30-orange)
 - ![Docker](https://img.shields.io/badge/Docker-v20.10-blue)
 - ![AWS](https://img.shields.io/badge/AWS-EC2-orange?logo=amazon-aws)
+
+## 💻 Code Editors
 - [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
+- [![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white)](#)
+- [![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?logo=vim&logoColor=white)](#)
+- [![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?&logo=notepad%2b%2b&logoColor=black)](#)
+- [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)](#)
+- [![PyCharm](https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff)](#)
+- 
 
 ## 📫 How to reach me:
 - [Discord](https://img.shields.io/discord/:[53uXbqNZKa])
