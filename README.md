@@ -32,7 +32,7 @@ Here are some of the technologies I am familiar with:
 - ![AWS](https://img.shields.io/badge/AWS-EC2-orange?logo=amazon-aws)
 - ![VSCode](https://img.shields.io/badge/VSCode-black?logo=visualstudiocode)
 
-### - 📫 How to reach me: ...
+## - 📫 How to reach me:
 - [Discord](https://img.shields.io/discord/:53uXbqNZKa)
 
 - [LinkedIn](https://www.linkedin.com/in/your-linkedin)
