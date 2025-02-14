@@ -21,6 +21,13 @@ Here are some of the technologies I am familiar with:
 - ![Express.js](https://img.shields.io/badge/Express.js-black?logo=express)
 - ![Django](https://img.shields.io/badge/Django-3.1-green)
 
+## Frameworks
+- [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)](#
+- [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
+- [![Helm](https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=fff)](#)
+- [![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white)](#)
+
+
 ## Databases
 - ![MySQL](https://img.shields.io/badge/MySQL-v8.0-blue)
 - [![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)](#)
@@ -46,6 +53,7 @@ Here are some of the technologies I am familiar with:
 
 ## 📫 How to reach me
 - [Discord](https://img.shields.io/discord/:[53uXbqNZKa])
+- [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](#)
 - [LinkedIn](https://www.linkedin.com/in/your-linkedin)
 - [Twitter](https://twitter.com/your-twitter)
 - [Personal Website](https://your-website.com)
