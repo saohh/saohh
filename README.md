@@ -1,7 +1,7 @@
 # Welcome to My GitHub Profile!
 
 ## About Me
-Hi! I'm [Your Name], a passionate software developer with expertise in various programming languages and tools.
+Hi! I'm Sven, a passionate DevOps / Software Enthusiast with expertise in various programming languages and tools.
 
 ## Skills
 Here are some of the technologies I am familiar with:
@@ -9,7 +9,7 @@ Here are some of the technologies I am familiar with:
 ### Programming Languages:
 - ![Python](https://img.shields.io/badge/Python-3.9-blue)
 - ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
-- ![Java](https://img.shields.io/badge/Java-11-orange)
+- 
 - ![C++](https://img.shields.io/badge/C++-17-lightblue)
 
 ### Frontend Development:
@@ -33,6 +33,8 @@ Here are some of the technologies I am familiar with:
 - ![VSCode](https://img.shields.io/badge/VSCode-black?logo=visualstudiocode)
 
 ## - 📫 How to reach me: ...
+- [Discord](https://img.shields.io/discord/:53uXbqNZKa)
+
 - [LinkedIn](https://www.linkedin.com/in/your-linkedin)
 - [Twitter](https://twitter.com/your-twitter)
 - [Personal Website](https://your-website.com)
