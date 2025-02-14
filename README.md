@@ -29,8 +29,7 @@ Here are some of the technologies I am familiar with:
 - ![Git](https://img.shields.io/badge/Git-v2.30-orange)
 - ![Docker](https://img.shields.io/badge/Docker-v20.10-blue)
 - ![AWS](https://img.shields.io/badge/AWS-EC2-orange?logo=amazon-aws)
-- Visual Studio Code 	[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
-- ![VSCode](https://img.shields.io/badge/VSCode-black?logo=visualstudiocode)
+- [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
 
 ## 📫 How to reach me:
 - [Discord](https://img.shields.io/discord/:[53uXbqNZKa])
