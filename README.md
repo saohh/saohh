@@ -32,8 +32,7 @@ Here are some of the technologies I am familiar with:
 - ![VSCode](https://img.shields.io/badge/VSCode-black?logo=visualstudiocode)
 
 ## 📫 How to reach me:
-- [Discord](https://img.shields.io/discord/:53uXbqNZKa)
-
+- [Discord](https://img.shields.io/discord/:[53uXbqNZKa])
 - [LinkedIn](https://www.linkedin.com/in/your-linkedin)
 - [Twitter](https://twitter.com/your-twitter)
 - [Personal Website](https://your-website.com)
