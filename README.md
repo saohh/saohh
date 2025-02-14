@@ -9,7 +9,6 @@ Here are some of the technologies I am familiar with:
 ## Programming Languages: ...
 - ![Python](https://img.shields.io/badge/Python-3.9-blue)
 - ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
-- 
 - ![C++](https://img.shields.io/badge/C++-17-lightblue)
 
 ## Frontend Development: ...
